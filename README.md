@@ -1,2 +1,2 @@
 # Machine-Learning
-My works of Machine Learning.
+My works of Machine Learning
